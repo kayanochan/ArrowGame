@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1538619611 source:c:\users\max\documents\c++ programs\arrowgame\arrowgame.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
